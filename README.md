@@ -16,4 +16,5 @@ java -jar boucles-4.0.jar --no-header
 ``` 
 
 # Licence
-Cet utilitaire est distribué avec la licence APL 2.
+Cet utilitaire est distribué avec la licence Apache Version 2.0
+Copyright 2019 Jean-Baptiste Le Duigou
