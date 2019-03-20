@@ -2,7 +2,7 @@
 
 *Boucles* est un utilitaire permettant d'extraire une liste de timecodes à partir d'un croissilé au format pdf.
 
-Le fichier de sortie au format CSV est ensuite utilisé dans Nuendo.
+Le fichier de sortie au format CSV est ensuite utilisable dans Nuendo.
 
 # Utilisation
 
