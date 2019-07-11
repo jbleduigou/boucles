@@ -4,13 +4,13 @@
   <groupId>org.github.jbleduigou</groupId>
   <artifactId>boucles</artifactId>
   <packaging>jar</packaging>
-  <version>4.0</version>
+  <version>4.1</version>
   <name>boucles</name>
   <url>https://github.com/jbleduigou</url>
 
   <properties>
     <version.commons.csv>1.2</version.commons.csv>
-    <version.pdfbox>1.8.16</version.pdfbox>
+    <version.pdfbox>2.0.16</version.pdfbox>
     <version.junit>4.12</version.junit>
     <version.mockito>2.25.1</version.mockito>
     <version.pitest>1.4.6</version.pitest>
