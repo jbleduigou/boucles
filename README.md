@@ -9,12 +9,12 @@ Le fichier de sortie au format CSV est ensuite utilisable dans Nuendo.
 L'utilitaire *Boucles* s'utilise via l'interface graphique Swing.
 Afin de le lancer tapez :
 ```
-java -jar boucles-4.0.jar
-``` 
+java -jar boucles-4.1.jar
+```
 Si vous ne souhaitez pas d'en-tête rajoutez le flag adéquat:
 ```
-java -jar boucles-4.0.jar --no-header
-``` 
+java -jar boucles-4.1.jar --no-header
+```
 
 # Licence
 Cet utilitaire est distribué avec la licence Apache Version 2.0
