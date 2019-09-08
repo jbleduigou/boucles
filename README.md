@@ -1,7 +1,8 @@
 # Description
 
-*Boucles* est un utilitaire permettant d'extraire une liste de timecodes à partir d'un croissilé au format pdf.
-Le fichier de sortie au format CSV est ensuite utilisé dans Nuendo.
+*Boucles* est un utilitaire permettant d'extraire une liste de timecodes à partir d'un croisilé au format pdf.
+
+Le fichier de sortie au format CSV est ensuite utilisable dans Nuendo.
 
 # Utilisation
 
@@ -16,4 +17,6 @@ java -jar boucles-4.0.jar --no-header
 ``` 
 
 # Licence
-Cet utilitaire est distribué avec la licence APL 2.
+Cet utilitaire est distribué avec la licence Apache Version 2.0
+
+Copyright 2019 Jean-Baptiste Le Duigou
