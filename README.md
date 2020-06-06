@@ -1,3 +1,5 @@
+![Java CI](https://github.com/jbleduigou/boucles/workflows/Java%20CI/badge.svg)
+
 # Description
 
 *Boucles* est un utilitaire permettant d'extraire une liste de timecodes à partir d'un croisilé au format pdf.
@@ -19,4 +21,4 @@ java -jar boucles-4.1.jar --no-header
 # Licence
 Cet utilitaire est distribué avec la licence Apache Version 2.0
 
-Copyright 2019 Jean-Baptiste Le Duigou
+Copyright 2020 Jean-Baptiste Le Duigou
