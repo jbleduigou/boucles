@@ -1,4 +1,5 @@
 ![Java CI](https://github.com/jbleduigou/boucles/workflows/Java%20CI/badge.svg)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=jbleduigou/boucles)](https://dependabot.com)
 
 # Description
 
