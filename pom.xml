@@ -12,7 +12,7 @@
     <version.commons.csv>1.8</version.commons.csv>
     <version.pdfbox>2.0.19</version.pdfbox>
     <version.junit>4.13</version.junit>
-    <version.mockito>2.25.1</version.mockito>
+    <version.mockito>3.4.0</version.mockito>
     <version.pitest>1.5.2</version.pitest>
   </properties>
 
